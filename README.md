@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dominc-J-Barker
+- 👀 I’m interested in genomics
+- 💞️ I’m looking to collaborate on bioinformatics pipelines
